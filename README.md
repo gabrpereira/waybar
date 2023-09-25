@@ -1,6 +1,9 @@
 # Minha configuração do Waybar
-
 Focado em simplicidade e ser CoLoRiDo! 😆
+
+# O que é? 🤔
+Waybar é uma barra altamente personalizável para compositores baseados em Sway e Wlroots.
+Disponível em Arch extra ou AUR, Gentoo, openSUSE e Alpine Linux.
 
 # Dependências
 `gtkmm3
