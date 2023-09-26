@@ -1,7 +1,7 @@
 # Minha configuração do Waybar 😆
 Focado em simplicidade e ser CoLoRiDo! 
 
-Exemplo de uma barra (créditos https://github.com/Alexays)
+Foto da minha barra
 ![Exemplo](https://github.com/adotive/waybar/blob/main/waybar-example.png)
 
 # O que é? 🤔
