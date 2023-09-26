@@ -99,8 +99,9 @@ window#waybar.chromium {
 }
 
 #clock {
-    border-radius: 15px;
+    border-radius: 5px;
     background-color: #474654;
+    margin: 5px 3px;
     color: #9e89fa;
 }
 
@@ -111,8 +112,9 @@ window#waybar.chromium {
 }
 
 #battery.charging, #battery.plugged {
-    color: #ffffff;
-    background-color: #26A65B;
+    color: #F5C2E7;
+    background-color: #474654;
+    margin: 6px 3px;
 }
 
 @keyframes blink {
