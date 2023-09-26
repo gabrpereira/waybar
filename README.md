@@ -1,14 +1,12 @@
-# Minha configuração do Waybar 😆
-Focado em simplicidade e ser CoLoRiDo! 
+# My Waybar configuration 😆
 
-Foto da minha barra
 ![Exemplo](https://github.com/adotive/waybar/blob/main/waybar-example.png)
 
-# O que é? 🤔
-Waybar é uma barra altamente personalizável para compositores baseados em Sway e Wlroots.
-Disponível em Arch extra ou AUR, Gentoo, openSUSE e Alpine Linux.
+# What is waybar? 🤔
+Waybar is a highly customizable bar for composers based on Sway and Wlroots.
+Available on Arch extra or AUR, Gentoo, openSUSE and Alpine Linux.
 
-# Dependências 📖
+# Dependencies 📖
 - `gtkmm3`
 - `jsoncpp`
 - `libsigc++`
@@ -16,11 +14,11 @@ Disponível em Arch extra ou AUR, Gentoo, openSUSE e Alpine Linux.
 - `wayland`
 - `chrono-date`
 - `spdlog`
-- `libgtk-3-dev` (requerido para `gtk-layer-shell`)
-- `gobject-introspection` (requerido para `gtk-layer-shell`)
-- `libgirepository1.0-dev` (requerido para `gtk-layer-shell`)
-- `libpulse` (requerido para o módulo Pulseaudio)
-- `libnl` (requerido para o módulo de rede)
+- `libgtk-3-dev` 
+- `gobject-introspection` 
+- `libgirepository1.0-dev` 
+- `libpulse` 
+- `libnl` 
 - `libappindicator-gtk3` (requerido para o módulo Tray)
 - `libdbusmenu-gtk3` (requerido para o módulo Tray)
 - `libmpdclient` (requerido para o módulo MPD)
