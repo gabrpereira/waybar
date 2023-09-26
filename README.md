@@ -1,6 +1,10 @@
 # My Waybar configuration 😆
 
+V1
 ![Exemplo](https://github.com/adotive/waybar/blob/main/waybar-example.png)
+
+V2
+![Exemplo](https://github.com/adotive/waybar/blob/main/waybar-example-2.png)
 
 # What is waybar? 🤔
 Waybar is a highly customizable bar for composers based on Sway and Wlroots.
