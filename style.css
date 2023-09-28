@@ -50,7 +50,7 @@ window#waybar.chromium {
 }
 
 #workspaces button.focused {
-    background-color: #84838d;
+    background-color: #474654;
     box-shadow: inset 0 -3px #ffffff;
 }
 
