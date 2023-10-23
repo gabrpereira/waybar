@@ -6,8 +6,8 @@
     "spacing": 5, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": ["hyprland/workspaces", "hyprland/mode", "hyprland/scratchpad", "custom/media"],
-    "modules-center": ["clock"],
-    "modules-right": ["pulseaudio", "network", "memory", "backlight", "keyboard-state", "battery", "battery#bat2"],
+    "modules-center": [],
+    "modules-right": ["pulseaudio", "network", "memory", "clock", "keyboard-state", "battery", "battery#bat2"],
 
     // Modules configuration
     // "hyprland/workspaces": {
