@@ -85,6 +85,7 @@ window#waybar.chromium {
 
 #battery {
     margin: 6px 3px;
+    font-size: 18px;
     color: #F5C2E7;
 }
 
@@ -137,6 +138,7 @@ label:focus {
 
 #network {
     margin: 6px 3px;
+    font-size: 18px;
     color: #A6E3A1;
 }
 
@@ -146,6 +148,7 @@ label:focus {
 
 #pulseaudio {
     margin: 6px 3px;
+    font-size: 20px;
     color: #89b4fa;
 }
 
