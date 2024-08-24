@@ -34,7 +34,6 @@ window#waybar.chromium {
 }
 
 #workspaces button.focused {
-    background-color: #494d64;
     color: #efe3ea
 }
 
@@ -147,10 +146,15 @@ label:focus {
 
 #pulseaudio {
     margin: 6px 3px;
-    color: #F38BA8;
+    color: #89b4fa;
 }
 
 #pulseaudio.muted {
     background-color: #90b1b1;
     color: #2a5c45;
+}
+
+#custom-power { 
+    color: #e64553;
+
 }
